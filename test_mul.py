@@ -1,4 +1,4 @@
 from mul import multiply
 
-def check_multiplication():
+def test_multiplication():
   assert multiply(3,4)==12
